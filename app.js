@@ -1,3 +1,5 @@
+// Same app writtin here in javaScript...
+
 /*const buttonEl = document.querySelector("button");
 const inputEl = document.querySelector("input");
 const listEl = document.querySelector("ul");
@@ -26,3 +28,4 @@ Vue.createApp({
     },
   },
 }).mount("#app");
+
